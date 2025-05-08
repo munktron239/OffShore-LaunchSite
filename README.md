@@ -57,9 +57,9 @@ Dependencies:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+Credits: These are the mods that I included copies of the models I used for OffShore. None of them were made by me.
 
-These are the mods that I included copies of the models I used for OffShore. None of them were made by me.
-Models included in the 'Statics' folder, under CC-BY-NC-SA 4.0
+Models included in the 'Statics' folder, under CC-BY-NC-SA 4.0 licence:
 
 
 - BAD-T Konstructs - adds the aircraft carrier and destroyer 
