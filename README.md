@@ -21,12 +21,13 @@ There should be enough room to drive small rovers or cars around the various sta
 There are even some easter eggs you can try to find ;)
 
 
-Lastly, the Kunited States Navy has let the KSC use one of their Aircraft Carriers, and it is parked next to the platform.
-You could launch and land small planes from there if you want to. But it won't be easy because the carrier is pretty small.
+Lastly, the Kunited States Navy has let the KSC use some of their Aircraft Carriers, and they are parked close to the platform.
+You could launch and land small planes from them if you want to. But it won't be easy because the carriers are pretty small.
+One carrier is facing East (HD270) and another is heading South (HD180).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Dependencies:
+# Dependencies:
 
 
 - Making History DLC
@@ -57,7 +58,7 @@ Dependencies:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Credits: These are the mods that I included copies of the models I used for OffShore. None of them were made by me.
+# Credits: These are the mods that I included copies of the models I used for OffShore. None of them were made by me.
 
 Models included in the 'Statics' folder, under CC-BY-NC-SA 4.0 licence:
 
@@ -90,9 +91,7 @@ If you have any suggestions on what to add, remove, or think the mod is terrible
 https://forum.kerbalspaceprogram.com/profile/236864-munktron239/
 
 
-To Do:
-
-- adjust placements of all statics to be more precise
+# To Do:
 
 - add length/width/height restrictions to the pads
 
@@ -106,7 +105,8 @@ To Do:
 
 In the future:
 
-- mod support: provide support for planet scaling mods (JNSQ, etc)
+- mod support: provide support for planet scaling mods
+  - currently tested with: JNSQ - works
+  - untested: RSS, KSRSS - unknown if works or not
 
 - add it to other planets... Laythe, perhaps?
-
