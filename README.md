@@ -93,11 +93,11 @@ https://forum.kerbalspaceprogram.com/profile/236864-munktron239/
 
 # To Do:
 
-- add length/width/height restrictions to the pads
+- ~~add length/width/height restrictions to the pads~~
 
-- add unique logos for each pad
+- ~~add unique logos for each pad~~
 
-- add more things in the water for boats
+- ~~add more things in the water for boats~~
 
 - maybe throw in some more Easter Eggs
 
@@ -107,6 +107,7 @@ In the future:
 
 - mod support: provide support for planet scaling mods
   - currently tested with: JNSQ - works
-  - untested: RSS, KSRSS - unknown if works or not
-
+  - untested: RSS, KSRSS - unknown if works or not. Feel free to try it out yourself!
+ 
+- test more thoroughly in career - see if prices are too high, low, etc
 - add it to other planets... Laythe, perhaps?
