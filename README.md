@@ -30,7 +30,7 @@ One carrier is facing East (HD270) and another is heading South (HD180).
 # Dependencies:
 
 
-- Making History DLC
+- Making History DLC (Make sure you DON'T have the MH features disabled by KSPCommunityFixes!)
 
 - Kerbal Konstructs, and all of its dependencies
   https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*
